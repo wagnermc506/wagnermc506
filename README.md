@@ -1,13 +1,12 @@
 Olá!
 
-Meu nome é Wagner M. Cunha, tenho 22 anos e estou cursando Engenharia de Software na UnB - Faculdade do Gama(FGA).
+Meu nome é Wagner M. Cunha, tenho 25 anos e estou cursando Engenharia de Software na UnB - Faculdade do Gama(FGA). Último semestre finally
 
 Meu principal hobby é jogar vídeogames e aliado a isso um grande interesse em tecnologia, sendo os principais tópicos de interesse:
 - Linux
-- Sistemas Embarcados
-- Desenvolvimento Web
-
-No momento estou aprendendo o básico das linguagens `Lua` e `Haskell`, além do framework web `Svelte`.
+- Desenvolvimento de Jogos
+- Embarcados
+- DevOps
 
 ### Competências
 
@@ -16,21 +15,22 @@ No momento estou aprendendo o básico das linguagens `Lua` e `Haskell`, além do
 Estas são as tecnologias que eu uso diariamente, e logo as que tenho mais experiência e conhecimento.
 
 - Python
-- Javascript
+- Javascript/Typescript
 - C/C++
 - Git
 - Postgresql
-- Jquery
 - Docker
 - Linux
-- Bash
+- Bash/zsh
+- Kubernetes
+- Github Actions
+- AWS e GCP
 
 #### Conhecimento Considerável
 
 Já foram usadas em algum projeto ou estudadas suficientemente para aplicar com certa facilidade. Não as utilizo com tanta frequência atualmente.
 
 - ReactJS
-- Typescript
 - esp-idf
 - Java
 
@@ -45,7 +45,6 @@ Tive a curiosidade de pesquisar como utilizar ou até já utilizei, mas precisar
 - Golang
 - Rust
 - Lua
-- Kubernetes
 
 #### Outros projetos
 
