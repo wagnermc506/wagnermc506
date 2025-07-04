@@ -25,7 +25,7 @@ Technical wise, The main areas in my tierlist are:
 
 - Linux (I currently use Manjaro btw)
 - Game Development
-- Embeded Systems (Really, I did the entire digital eletronic flow from Eletronic Engineering)
+- Embedded Systems (Really, I did the entire digital eletronic flow from Eletronic Engineering)
 
 Now talking about fun, I'm basically videogames and animes.
 
