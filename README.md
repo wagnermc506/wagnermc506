@@ -6,7 +6,7 @@ But **Journey before Destination** radiants
 
 ## About
 
-Hi, my name is Wagner M Cunha, 25 years old and a pretty good devops :)
+Hi, my name is Wagner M Cunha 🇧🇷, 25 years old and a pretty good devops :)
 
 - Graduating in Software Engineering in FCTE - UNB
 - Worked a bit with python (django and web crawling) as intern on `Polícia Federal`
