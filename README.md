@@ -1,74 +1,34 @@
-Olá!
+Working to become the next **Anime Profile Picture Senior Developer**
 
-Meu nome é Wagner M. Cunha, tenho 25 anos e estou cursando Engenharia de Software na UnB - Faculdade do Gama(FGA). Último semestre finally
+But **Journey before Destination** radiants
 
-Meu principal hobby é jogar vídeogames e aliado a isso um grande interesse em tecnologia, sendo os principais tópicos de interesse:
-- Linux
-- Desenvolvimento de Jogos
-- Embarcados
-- DevOps
+---
 
-### Competências
+## About
 
-#### Utilização Frequente
+Hi, my name is Wagner M Cunha, 25 years old and a pretty good devops :)
 
-Estas são as tecnologias que eu uso diariamente, e logo as que tenho mais experiência e conhecimento.
+- Graduating in Software Engineering in FCTE - UNB
+- Worked a bit with python (django and web crawling) as intern on `Polícia Federal`
+- Currently working for `Atena Solutions` as Devops and Infrastructure Engineer, working with, but not limited to:
+  - Docker and Kubernetes operations
+  - Cloud (AWS, GCP, Azure(not so much))
+  - Linux Administration
+  - Even configured an entire datacenter remotely 😎
+  - Observability and so on
 
-- Python
-- Javascript/Typescript
-- C/C++
-- Git
-- Postgresql
-- Docker
-- Linux
-- Bash/zsh
-- Kubernetes
-- Github Actions
-- AWS e GCP
+---
 
-#### Conhecimento Considerável
+## Interests
 
-Já foram usadas em algum projeto ou estudadas suficientemente para aplicar com certa facilidade. Não as utilizo com tanta frequência atualmente.
+Technical wise, The main areas in my tierlist are:
 
-- ReactJS
-- esp-idf
-- Java
+- Linux (I currently use Manjaro btw)
+- Game Development
+- Embeded Systems (Really, I did the entire digital eletronic flow from Eletronic Engineering)
 
-#### Noções básicas
+Now talking about fun, I'm basically videogames and animes.
 
-Tive a curiosidade de pesquisar como utilizar ou até já utilizei, mas precisaria de mais tempo para aplicar corretamente.
+Don't like people a lot, but I can communicate quite well to get things done
 
-- React Native
-- Flutter
-- Svelte
-- Neo4J
-- Golang
-- Rust
-- Lua
-
-#### Outros projetos
-
-Além dos projetos pinnados abaixo, segue alguns links para outros projetos interessantes:
-
-##### Trabalhos de FSE
-
-A disciplina de `Fundamentos de Sistemas Embarcados` foi uma das disciplinas que eu mais gostei no curso até o momento. Os trabalhos entregues na disciplina foram uma ótima experiência para melhorar meus conhecimentos em C e C++. Os repositórios destes trabalhos encontram-se no [gitlab](https://gitlab.com/frosutoFSE).
-
-##### Kate
-
-Por um semestre eu contribuí com o editor [KDE Kate](https://kate-editor.org/pt-br/), um ótimo editor de código, principalmente para linguagens como C e C++ na minha opinião. O repositório para o código fonte do editor pode ser encontrado [aqui](https://invent.kde.org/utilities/kate).
-
-<!--
-**wagnermc506/wagnermc506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> This profile doesn't have much, but feel free and welcome!
