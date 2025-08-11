@@ -8,7 +8,7 @@ But **Journey before Destination** radiants
 
 Hi, my name is Wagner M Cunha 🇧🇷, 25 years old and a pretty good devops :)
 
-- Graduating in Software Engineering in FCTE - UNB
+- Graduated in Software Engineering in FCTE - UNB
 - Worked a bit with python (django and web crawling) as intern on `Polícia Federal`
 - Currently working for `Atena Solutions` as Devops and Infrastructure Engineer, working with, but not limited to:
   - Docker and Kubernetes operations
